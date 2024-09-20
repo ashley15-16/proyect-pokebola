@@ -1,0 +1,14 @@
+
+*{
+    background-color: rgb(252, 252, 120);
+}
+.titulo{ 
+    text-align: center;
+    
+}
+.presentacion{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(252, 252, 120);
+}
+
